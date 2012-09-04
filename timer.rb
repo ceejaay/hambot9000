@@ -1,4 +1,7 @@
 #timer block
+#this file wont work without the hambot file. 
+# on line 24 the Proc asks for the hambot method which is in the hambot.rb file.
+#
 require 'gmail'
 require_relative 'hambot.rb'
 

@@ -1,4 +1,7 @@
 #hambot the spambot. August 26, 2012
+#this file has the hambot method. It uses gmail to send email out. 
+#You can use this by its self or you can use it with timer.rb.
+#timer.rb won't work without this file.
 
 require 'gmail'
 #the methods and blocks and stuff here are from the gmail gem.
